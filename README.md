@@ -11,7 +11,6 @@ This portfolio highlights my ability to **support project execution, coordinate 
 ![Jira](https://img.shields.io/badge/Jira-Project%20Tracking-blue)
 ![Agile](https://img.shields.io/badge/Agile-Scrum-green)
 ![Excel](https://img.shields.io/badge/Excel-Dashboards-darkgreen)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-orange)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-lightblue)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-Workflow%20Diagrams-red)
 
@@ -34,7 +33,7 @@ My work focuses on:
 
 | Project                               | Domain                     | Focus                       | Tools                |
 | ------------------------------------- | -------------------------- | --------------------------- | -------------------- |
-| E-Commerce Platform Launch            | Digital Commerce           | Project Planning & Delivery | Jira, Excel, Tableau |
+| E-Commerce Platform Launch            | Digital Commerce           | Project Planning & Delivery | Jira, Excel |
 | Hospital Intake Workflow Optimization | Healthcare Operations      | Process Improvement         | Excel, Lucidchart    |
 | Salesforce CRM Implementation         | CRM Systems                | Implementation Coordination | Jira, SQL            |
 | Leadership Training Program Rollout   | Organizational Development | Program Coordination        | Excel, PowerPoint    |
