@@ -1,4 +1,4 @@
-# Project Coordinator Portfolio — Jamie Christian
+# Project Coordinator Portfolio — Jamie Christian II
 
 Welcome to my **Project Coordinator Portfolio**, showcasing real-world project coordination case studies demonstrating project planning, cross-functional coordination, risk management, KPI reporting, and Agile workflow tracking.
 
@@ -196,10 +196,10 @@ GitHub
 https://github.com/JamieChristian22
 
 LinkedIn
-(Add your LinkedIn URL)
+(https://www.linkedin.com/in/jamiechristian2/)
 
 Email
-(Add your email)
+(Jamiechristian331@gmail.com)
 
 ---
 
