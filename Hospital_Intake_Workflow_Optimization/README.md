@@ -125,7 +125,6 @@ This project folder contains real project coordination artifacts used to manage 
 **Reporting & Analytics**
 
 * Excel dashboards
-* Tableau KPI dashboards
 * SQL (light analytics)
 
 **Visualization**
