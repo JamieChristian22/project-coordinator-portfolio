@@ -80,7 +80,6 @@ Project Management
 
 Reporting & Analytics  
 • Excel dashboards  
-• Tableau KPI dashboards  
 • SQL (light analytics)  
 
 Visualization  
