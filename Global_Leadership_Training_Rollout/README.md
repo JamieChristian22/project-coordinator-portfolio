@@ -84,7 +84,6 @@ This project folder includes several real-world project coordination artifacts.
 **Reporting & Analytics**
 
 * Excel dashboards
-* Tableau KPI dashboards
 * CSV data tracking
 
 **Visualization**
