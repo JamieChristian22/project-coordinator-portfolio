@@ -1,0 +1,7 @@
+week,patients_processed,avg_registration_min,avg_wait_min,digital_form_rate,insurance_verified_prearrival_rate,data_error_rate,staff_rework_cases,patient_satisfaction,open_issues
+Week 1,420,14.8,31.0,0.42,0.38,0.087,36,3.7,5
+Week 2,445,13.2,28.5,0.55,0.5,0.071,30,3.9,4
+Week 3,468,11.6,25.0,0.68,0.62,0.056,24,4.1,4
+Week 4,490,10.1,22.3,0.79,0.74,0.041,18,4.3,3
+Week 5,510,8.9,19.8,0.88,0.83,0.029,13,4.5,2
+Week 6,525,7.6,17.2,0.94,0.91,0.018,8,4.6,0
