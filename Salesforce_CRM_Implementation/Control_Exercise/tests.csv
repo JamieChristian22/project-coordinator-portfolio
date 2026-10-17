@@ -1,0 +1,7 @@
+id,requirement_id,task_id,procedure,expected_result,observed_result,result,evidence
+TEST-01,REQ-01,T-01,Compare invite list with approved eligible-user roster,One approved eligibility record per target user; duplicates removed,Simulated reviewer found expected evidence,Pass,SIM-EV-01
+TEST-02,REQ-02,T-02,Compare requested roles with manager-approved job responsibilities,Each user has a least-privilege role approved by the business owner,Simulated reviewer found expected evidence,Pass,SIM-EV-02
+TEST-03,REQ-03,T-03,Reconcile required modules and training completion by user,Mandatory training is complete or a documented exception exists,Not yet evaluated,Not run,
+TEST-04,REQ-04,T-04,Test sign-in and permitted/forbidden actions for representative roles,Approved access succeeds and unauthorized actions fail,Not yet evaluated,Not run,
+TEST-05,REQ-05,T-05,Track pilot support issues and unresolved access blockers,Every blocker has an owner; high-impact access gaps prevent expansion,Not yet evaluated,Not run,
+TEST-06,REQ-06,T-06,Compare active users and eligible users over the same period,Usage rate uses stated window and denominator; training and usage remain separate,Not yet evaluated,Not run,

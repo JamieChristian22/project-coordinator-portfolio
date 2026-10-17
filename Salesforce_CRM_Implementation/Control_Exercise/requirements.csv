@@ -1,0 +1,7 @@
+id,requirement,owner,acceptance,mandatory
+REQ-01,Roster approval,Training lead,One approved eligibility record per target user; duplicates removed,yes
+REQ-02,Role mapping,Training lead,Each user has a least-privilege role approved by the business owner,yes
+REQ-03,Training,Training lead,Mandatory training is complete or a documented exception exists,yes
+REQ-04,Access check,Training lead,Approved access succeeds and unauthorized actions fail,yes
+REQ-05,Pilot support,Training lead,Every blocker has an owner; high-impact access gaps prevent expansion,yes
+REQ-06,Adoption follow-up,Training lead,Usage rate uses stated window and denominator; training and usage remain separate,yes

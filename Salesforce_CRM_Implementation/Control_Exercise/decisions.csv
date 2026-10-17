@@ -1,0 +1,2 @@
+id,issue_id,recommendation,alternative,approver,status,decision_day,rationale
+DEC-01,ISS-01,Reconcile the training roster with activated users and role assignments,Launch to a smaller approved cohort,Sales operations owner,Proposed,,Coordinator records access gaps and routes approvals; never grants business access by assumption
