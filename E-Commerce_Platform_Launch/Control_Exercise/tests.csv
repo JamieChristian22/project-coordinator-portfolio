@@ -1,0 +1,7 @@
+id,requirement_id,task_id,procedure,expected_result,observed_result,result,evidence
+TEST-01,REQ-01,T-01,Confirm the primary payment certification record matches release configuration,Certification version and merchant configuration match the planned release,Simulated reviewer found expected evidence,Pass,SIM-EV-01
+TEST-02,REQ-02,T-02,"Sample catalogue price, stock, image and SKU mapping exceptions",Blocking catalogue errors are resolved or excluded with product-owner approval,Simulated reviewer found expected evidence,Pass,SIM-EV-02
+TEST-03,REQ-03,T-03,"Test payment success, decline, retry, cancellation and duplicate submit",No duplicate order or charge; each failure produces a controlled customer outcome,Not yet evaluated,Not run,
+TEST-04,REQ-04,T-04,"Reconcile critical tests, defects and owner availability",All mandatory tests pass; open critical defects equal zero; authorized decision recorded,Not yet evaluated,Not run,
+TEST-05,REQ-05,T-05,"Review launch notice recipients, timing and escalation contacts",Release communication is approved and reaches each required stakeholder group,Not yet evaluated,Not run,
+TEST-06,REQ-06,T-06,Review support queue and payment exception monitoring,Open issues have owners and support handoff is accepted,Not yet evaluated,Not run,

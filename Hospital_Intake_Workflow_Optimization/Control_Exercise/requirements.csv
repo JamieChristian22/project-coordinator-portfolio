@@ -1,0 +1,7 @@
+id,requirement,owner,acceptance,mandatory
+REQ-01,Workflow walk-through,Registration lead,Each handoff has a receiving owner and a defined exception route,yes
+REQ-02,Exception queue,Registration lead,"Every exception has timestamp, owner, disposition and next-action due time",yes
+REQ-03,Staff briefing,Registration lead,Required staff acknowledge the procedure and can identify escalation route,yes
+REQ-04,Pilot,Registration lead,No case is lost between teams; unresolved cases remain visible,yes
+REQ-05,Daily review,Registration lead,Averages and aged open exceptions are reported separately,yes
+REQ-06,Handoff,Registration lead,Operations accepts remaining exceptions with accountable owners and review dates,yes

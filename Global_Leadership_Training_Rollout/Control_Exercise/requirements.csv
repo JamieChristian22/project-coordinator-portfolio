@@ -1,0 +1,7 @@
+id,requirement,owner,acceptance,mandatory
+REQ-01,Roster freeze,Regional HR lead,One eligibility record per person and a defined roster cutoff,yes
+REQ-02,Localization review,Regional HR lead,Required regional content is approved before invitations are finalized,yes
+REQ-03,Facilitator booking,Regional HR lead,Each session has primary and backup facilitation without schedule conflicts,yes
+REQ-04,Session delivery,Regional HR lead,Repeat attendance does not inflate unique participant counts,yes
+REQ-05,Makeup sessions,Regional HR lead,Every incomplete learner has an agreed next action,yes
+REQ-06,Completion reconciliation,Regional HR lead,Each rate uses its named denominator and regional totals reconcile to unique roster,yes

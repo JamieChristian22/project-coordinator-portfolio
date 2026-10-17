@@ -1,0 +1,2 @@
+id,description,task_id,owner,severity,status,opened_day,due_day,decision_id,closure_evidence
+ISS-01,Regional makeup sessions conflict with facilitator availability,T-03,Regional HR lead,High,Open,6,8,DEC-01,

@@ -1,0 +1,7 @@
+id,requirement,owner,acceptance,mandatory
+REQ-01,Certification,Payments lead,Certification version and merchant configuration match the planned release,yes
+REQ-02,Catalog validation,Payments lead,Blocking catalogue errors are resolved or excluded with product-owner approval,yes
+REQ-03,Checkout testing,Payments lead,No duplicate order or charge; each failure produces a controlled customer outcome,yes
+REQ-04,Readiness review,Payments lead,All mandatory tests pass; open critical defects equal zero; authorized decision recorded,yes
+REQ-05,Launch communication,Payments lead,Release communication is approved and reaches each required stakeholder group,yes
+REQ-06,Hypercare,Payments lead,Open issues have owners and support handoff is accepted,yes

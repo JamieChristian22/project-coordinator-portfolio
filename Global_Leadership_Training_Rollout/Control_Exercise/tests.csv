@@ -1,0 +1,7 @@
+id,requirement_id,task_id,procedure,expected_result,observed_result,result,evidence
+TEST-01,REQ-01,T-01,Reconcile target leader roster and unique identifiers,One eligibility record per person and a defined roster cutoff,Simulated reviewer found expected evidence,Pass,SIM-EV-01
+TEST-02,REQ-02,T-02,Review regional translations with named reviewers,Required regional content is approved before invitations are finalized,Simulated reviewer found expected evidence,Pass,SIM-EV-02
+TEST-03,REQ-03,T-03,"Confirm facilitator calendars, time zones and backup coverage",Each session has primary and backup facilitation without schedule conflicts,Not yet evaluated,Not run,
+TEST-04,REQ-04,T-04,Record attendance against session and unique participant ID,Repeat attendance does not inflate unique participant counts,Not yet evaluated,Not run,
+TEST-05,REQ-05,T-05,Assign remaining learners to makeup sessions or approved exceptions,Every incomplete learner has an agreed next action,Not yet evaluated,Not run,
+TEST-06,REQ-06,T-06,"Reconcile completed, attended, registered and target counts",Each rate uses its named denominator and regional totals reconcile to unique roster,Not yet evaluated,Not run,

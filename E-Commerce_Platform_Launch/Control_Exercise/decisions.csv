@@ -1,0 +1,2 @@
+id,issue_id,recommendation,alternative,approver,status,decision_day,rationale
+DEC-01,ISS-01,Run certification and catalogue checks in parallel with named owners,Defer second processor and retain the approved primary integration,Project manager,Proposed,,Coordinator escalates; PM and product owner authorize scope or date changes

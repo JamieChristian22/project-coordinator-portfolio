@@ -1,0 +1,2 @@
+id,issue_id,recommendation,alternative,approver,status,decision_day,rationale
+DEC-01,ISS-01,Assign a daily exception queue with cutoff and backup coverage,Extend registration staffing for the pilot,Operations manager,Proposed,,Escalate unresolved cases through the agreed operational route; do not infer clinical urgency

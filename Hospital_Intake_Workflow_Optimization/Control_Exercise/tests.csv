@@ -1,0 +1,7 @@
+id,requirement_id,task_id,procedure,expected_result,observed_result,result,evidence
+TEST-01,REQ-01,T-01,"Walk registration, insurance and handoff steps with department owners",Each handoff has a receiving owner and a defined exception route,Simulated reviewer found expected evidence,Pass,SIM-EV-01
+TEST-02,REQ-02,T-02,Enter incomplete insurance and failed eligibility examples,"Every exception has timestamp, owner, disposition and next-action due time",Simulated reviewer found expected evidence,Pass,SIM-EV-02
+TEST-03,REQ-03,T-03,Have staff explain the exception and backup-coverage procedure,Required staff acknowledge the procedure and can identify escalation route,Not yet evaluated,Not run,
+TEST-04,REQ-04,T-04,Run synthetic pilot cases through normal and exception paths,No case is lost between teams; unresolved cases remain visible,Not yet evaluated,Not run,
+TEST-05,REQ-05,T-05,Review queue aging and wait times at the same daily cutoff,Averages and aged open exceptions are reported separately,Not yet evaluated,Not run,
+TEST-06,REQ-06,T-06,Transfer unresolved cases and process ownership,Operations accepts remaining exceptions with accountable owners and review dates,Not yet evaluated,Not run,
