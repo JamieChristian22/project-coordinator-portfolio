@@ -427,3 +427,7 @@ Project Coordinator • IT Project Coordinator • PMO Analyst • Project Analy
 *Evidence-led project coordination • Clear accountability • Transparent validation limits*
 
 </div>
+
+## License and third-party materials
+
+See [LICENSE](LICENSE) for the repository license. Third-party code, datasets, images, and other assets retain their respective terms.
