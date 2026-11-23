@@ -17,6 +17,8 @@
 
 </div>
 
+**💜 Support public project-delivery resources:** [Sponsor on GitHub](https://github.com/sponsors/JamieChristian22). Optional support helps improve planning templates, traceable examples, clear documentation, and practical portfolio simulations. Existing public materials remain freely accessible.
+
 ---
 
 ## 👋 Welcome
